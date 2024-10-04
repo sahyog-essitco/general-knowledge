@@ -82,6 +82,10 @@ ROOT
 
 ## Communication Protocols
 
+The repository contains detailed documentation on various communication protocols, including **I2C**, **UART**, **SPI**, and others. These protocols are commonly used for communication between microcontrollers and peripherals.
+
+For more information, refer to the [Communication Protocols documentation](Communication/README.md).
+
 ### I2C
 - [I2C/README.md](Communication/I2C/README.md)  
   Provides an overview of the I2C protocol, including its usage, wiring, and how to interface with I2C-enabled devices.
