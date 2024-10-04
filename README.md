@@ -99,11 +99,11 @@ ROOT
 ## Raspberry Pi Devices
 
 ### Pi 4
-- [Pi 4/README.md](Raspberry/Pi 4/README.md)  
+- [Pi-4/README.md](Raspberry/Pi-4/README.md)  
   Guides for setting up and configuring the Raspberry Pi 4, including tips for using I2C, SPI, and UART with this model.
 
 ### Pi 5
-- [Pi 5/README.md](Raspberry/Pi 5/README.md)  
+- [Pi-5/README.md](Raspberry/Pi-5/README.md)  
   Covers the new features of the Raspberry Pi 5 and how to use various peripherals with the device.
 
 ### Pico
@@ -111,7 +111,7 @@ ROOT
   Documentation on the Raspberry Pi Pico, including pinouts, programming options, and interfacing sensors using I2C, SPI, and UART.
 
 ### Pico W
-- [Pico W/README.md](Raspberry/Pico W/README.md)  
+- [Pico-W/README.md](Raspberry/Pico-W/README.md)  
   Focuses on the Raspberry Pi Pico W, with a particular emphasis on wireless communication and peripheral interfacing.
 
 ---
@@ -121,20 +121,20 @@ ROOT
 ### Gas Sensors (Semeatech)
 
 #### 4 Series
-- [4ECM-SMART-MODULE.md](Sensors/Gas Sensors/Semeatech/4 Series/4ECM-SMART-MODULE.md)  
+- [4ECM-SMART-MODULE.md](Sensors/Gas-Sensors/Semeatech/4-Series/4ECM-SMART-MODULE.md)  
   Details the 4ECM Smart Module, a gas sensor interface, including wiring and usage.
 
-- [CARBON-MONOXIDE.md](Sensors/Gas Sensors/Semeatech/4 Series/CARBON-MONOXIDE.md)  
+- [CARBON-MONOXIDE.md](Sensors/Gas-Sensors/Semeatech/4-Series/CARBON-MONOXIDE.md)  
   Specific documentation for Semeatech’s Carbon Monoxide (CO) gas sensor.
 
-- [OXYGEN.md](Sensors/Gas Sensors/Semeatech/4 Series/OXYGEN.md)  
+- [OXYGEN.md](Sensors/Gas-Sensors/Semeatech/4-Series/OXYGEN.md)  
   Details on the Oxygen (O2) gas sensor by Semeatech, including calibration and integration with embedded systems.
 
 #### 7 Series
-- [H2S.md](Sensors/Gas Sensors/Semeatech/7 Series/H2S.md)  
+- [H2S.md](Sensors/Gas-Sensors/Semeatech/7-Series/H2S.md)  
   Documentation for the Hydrogen Sulfide (H2S) gas sensor, part of the Semeatech 7 Series.
 
-- [SMART-SENSOR-MODULE.md](Sensors/Gas Sensors/Semeatech/7 Series/SMART-SENSOR-MODULE.md)  
+- [SMART-SENSOR-MODULE.md](Sensors/Gas-Sensors/Semeatech/7-Series/SMART-SENSOR-MODULE.md)  
   Describes the Smart Sensor Module, focusing on how it interfaces with gas sensors for environmental monitoring.
 
 ---
