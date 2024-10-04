@@ -37,6 +37,8 @@ Communication protocols are essential for enabling data exchange between microco
 
 For more information, see the [I2C documentation](I2C/README.md).
 
+![I2C](./assets/I2C-layout.png)
+
 ---
 
 ### UART
@@ -51,6 +53,8 @@ For more information, see the [I2C documentation](I2C/README.md).
 
 For more information, see the [UART documentation](UART/README.md).
 
+![UART](./assets/UART-diagram.png)
+
 ---
 
 ### SPI
@@ -64,6 +68,8 @@ For more information, see the [UART documentation](UART/README.md).
 - **Applications:** SD cards, flash memory, LCD displays, audio codecs
 
 For more information, see the [SPI documentation](SPI/README.md).
+
+![SPI](./assets/SPI-bus.png)
 
 ---
 
